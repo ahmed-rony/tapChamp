@@ -1,0 +1,8 @@
+{
+  "name": "TappyFin",
+  "displayName": "TappyFin",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4586126437187561~6168802030",
+    "ios_app_id": "ca-app-pub-4586126437187561~6168802030"
+  }
+}
